@@ -1,0 +1,15 @@
+streamlit                 1.47.1
+
+tensorflow                2.20.0
+
+pandas                    2.3.0
+
+numpy                     2.2.6
+
+keras                     3.10.0
+
+pillow                    11.3.0
+
+OS                        built-in
+
+warnings                  built-in
