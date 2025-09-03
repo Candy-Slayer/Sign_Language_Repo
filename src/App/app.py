@@ -42,7 +42,7 @@ def predict_letter(image_array):
 # =====================================
 # 4️⃣ واجهة Streamlit
 # =====================================
-st.title("Sign Language Recognition (Trained Model)")
+st.title("Sign Language Recognition")
 
 # --- رفع صورة وتحويلها لحرف ---
 uploaded_file = st.file_uploader("Upload a Sign Language image", type=["png","jpg","jpeg"])
